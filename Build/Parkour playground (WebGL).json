@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Alpha 0.1",
+"dataUrl": "Parkour playground (WebGL).data.unityweb",
+"wasmCodeUrl": "Parkour playground (WebGL).wasm.code.unityweb",
+"wasmFrameworkUrl": "Parkour playground (WebGL).wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
